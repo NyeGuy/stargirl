@@ -1,3 +1,4 @@
+![](stargirl_game.JPG)
 # stargirl
 an open source space adventure for game dev star heroes
 - pixelorama
